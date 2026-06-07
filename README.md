@@ -61,7 +61,3 @@ Example Output
 important: 4
 promo: 3
 personal: 3
-
-important: 4
-promo: 3
-personal: 3
